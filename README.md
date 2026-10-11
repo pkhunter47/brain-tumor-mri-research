@@ -44,6 +44,12 @@ flowchart LR
 
 The proposed notebook reports approximately **97.05% test accuracy, precision, recall, and F1-score**, using about **2.43 million parameters**. These values belong to the saved experiment snapshot and should be rechecked after a clean rerun.
 
+### Conference presentation
+
+**CerebriLite-CAM** (Paper ID 634) was presented at the **IEEE 3rd International Conference on Computing, Applications and Systems (COMPAS 2026)**, held on **9–10 October 2026** at the University of Dhaka, Bangladesh.
+
+The presentation certificate will be added here later.
+
 ## NeuroEffiNet comparison
 
 The baseline notebook evaluates transfer-learning backbones under a common data pipeline and records predictive performance, trainable parameters, model size, and inference time. This supports model selection based on both accuracy and deployment cost.
